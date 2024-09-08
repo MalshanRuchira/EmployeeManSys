@@ -1,2 +1,2 @@
-# EmployeeManSys
-An employee management system using C# including CRUD operations
+# StudentManSys
+An student management system using C# including CRUD operations
